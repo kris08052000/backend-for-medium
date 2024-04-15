@@ -2,5 +2,5 @@ name = "week-13-offline"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL ="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMTQzYTU1MDktODJlOS00NzJkLTliZDQtZmZiMGM5MGUxZWNmIiwidGVuYW50X2lkIjoiOTAzMjQ1ZmQzMGM3ZjI1NTU5ZjcwODliOWQ3MDM3NzNjOGE2Yjg0YTU1YjMzNjk1Yzc2ZDkyYWY4MjlhZjMyYyIsImludGVybmFsX3NlY3JldCI6ImQwODQwMDI2LTJiZjMtNDY1Yy04MzEwLWRlMTg1ZGQ1MDgwYiJ9.tb-JXIy9I5ZnakhQwFVho9XvfAvoXZjeSS0YbqYT_cA"
+#//////////////////////DATABASE_URL//// //////////="your connection pool here"/////
 
